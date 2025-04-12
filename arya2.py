@@ -3,7 +3,7 @@ import pyttsx3 #pip install pyttsx3
 import speech_recognition as sr #pip install speechRecgnition
 
 
-openai.api_key = "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"
+openai.api_key = "Your_api_key"
 
 engine = pyttsx3.init('sapi5') #what is sapi5? It is used to take voices from computer.
 voices = engine.getProperty('voices')
