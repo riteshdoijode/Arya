@@ -4,7 +4,7 @@ import speech_recognition as sr
 import time
 import sys
 
-openai.api_key = "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"
+openai.api_key = "Your_api_key"
 
 engine = pyttsx3.init()
 voices = engine.getProperty('voices')
