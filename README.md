@@ -1,4 +1,4 @@
-# Arya - Your Personal Voice Assistant
+# ARYA - Artificially Recreating Your Assistant
 
 Arya is a Python-based voice assistant that can recognize speech, respond to commands, search Wikipedia, open websites, play music, and send emails.
 
